@@ -1,6 +1,6 @@
 {
     "id": "2AF87C8C",
-    "path": "~/Spring 2026/Geog 590-Spatial Demog/Lab/Mywesite/_quarto.yml",
+    "path": "~/Spring 2026/Geog 590-Spatial Demog/Lab/Mywebsite/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
     "hash": "0",
@@ -11,14 +11,16 @@
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "2,18",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1780518020,
+    "lastKnownWriteTime": 1780518476,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1780518020,
+    "last_content_update": 1780518476886,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -1,13 +1,13 @@
 {
     "id": "456D53D9",
-    "path": "~/Spring 2026/Geog 590-Spatial Demog/Lab/Mywesite/index.qmd",
+    "path": "~/Spring 2026/Geog 590-Spatial Demog/Lab/Mywebsite/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2510632739",
     "contents": "",
     "dirty": false,
     "created": 1780518024203.0,
-    "source_on_save": false,
+    "source_on_save": true,
     "relative_order": 1,
     "properties": {
         "rmdVisualMode": "true",
@@ -16,14 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "2:0",
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1780518020,
+    "lastKnownWriteTime": 1780519315,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1780518020,
+    "last_content_update": 1780519315167,
     "read_only": false,
     "read_only_alternatives": []
 }
