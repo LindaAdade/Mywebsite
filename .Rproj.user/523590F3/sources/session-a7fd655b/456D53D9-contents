@@ -1,5 +1,32 @@
 ---
-title: "Mywebsite"
+title: "Linda Adade"
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Linda Adade is a first year Ms studet i Geography at the Uiversity of Orego. Her iterest is huma geography (uran and economic geography.
+
+## Education
+
+University of Oregon, Eugee | Oregon,
+MS in Geography | Sept 2025 - Present
+
+University of Ghana | Accra, Ghana
+B.A in Geography and resource development and Sociology | Sept 2016 - June 20202
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Spet 2012 - April 2018"
 ---
 
 This is a Quarto website.

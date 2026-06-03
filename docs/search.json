@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Mywebsite",
+    "title": "Linda Adade",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Linda Adade is a first year Ms studet i Geography at the Uiversity of Orego. Her iterest is huma geography (uran and economic geography."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Linda Adade",
+    "section": "Education",
+    "text": "Education\nUniversity of Oregon, Eugee | Oregon, MS in Geography | Sept 2025 - Present\nUniversity of Ghana | Accra, Ghana B.A in Geography and resource development and Sociology | Sept 2016 - June 20202"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Linda Adade",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present"
+  },
+  {
+    "objectID": "index.html#geoscynce-chief-analyst-spet-2012---april-2018",
+    "href": "index.html#geoscynce-chief-analyst-spet-2012---april-2018",
+    "title": "Linda Adade",
+    "section": "GeoScynce | Chief Analyst | Spet 2012 - April 2018”",
+    "text": "GeoScynce | Chief Analyst | Spet 2012 - April 2018”\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]
