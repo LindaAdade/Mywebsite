@@ -8,18 +8,14 @@ Before joining the University of Oregon, I earned a Bachelor's degrees in Geogra
   template: broadside
   image: profile.jpg
   links:
+    - icon: linkedin
     - text: Linkedin
       href: https://www.linkedin.com/in/linda-adade-194858205/
-    - icon: linkedin
+    - icon: github
+    - icon: github
       text: Github
       href: https://github.com/LindaAdade 
 ---
-
-I am a Master's student in Geography at the University of Oregon. My research is driven by an interest in understanding why development unfolds unevenly across places and how global economic processes shape opportunities for growth and transformation. I am particularly interested in the ways infrastructure, investment, and broader patterns of economic change reshape regions, cities, and communities.
-
-My current research examines the Spatial Distribution of Chinese-Financed Infrastructure Development In Africa. Through GIS and spatial analysis, I explore how patterns of investment vary across regions and what they reveal about broader processes of development, connectivity, and spatial inequality.
-
-Before joining the University of Oregon, I earned a Bachelor's degrees in Geography and Resource Development and Sociology from the University of Ghana. My broader interests lie in development, urban and economic geography, and the changing geographies of Africa.
 
 ## Education
 
@@ -27,10 +23,6 @@ University of Oregon, Eugene \| Oregon, MS in Geography \| Sept 2025 - Present
 
 University of Ghana \| Accra, Ghana \| B.A in Geography and resource development and Sociology \| Sept 2016 - June 2020
 
-## Teaching Assistant \| Department of Geography \| Spet 2025- Present"
+## Experience
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+University of Oregon \| Graduate Employee \| Sept 2025- Present
