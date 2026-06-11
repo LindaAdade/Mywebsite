@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Linda Adade",
     "section": "",
-    "text": "I am a Master’s student in Geography at the University of Oregon. My research is driven by an interest in understanding why development unfolds unevenly across places and how global economic processes shape opportunities for growth and transformation. I am particularly interested in the ways infrastructure, investment, and broader patterns of economic change reshape regions, cities, and communities.\nMy current research examines the Spatial Distribution of Chinese-Financed Infrastructure Development In Africa. Through GIS and spatial analysis, I explore how patterns of investment vary across regions and what they reveal about broader processes of development, connectivity, and spatial inequality.\nBefore joining the University of Oregon, I earned a Bachelor’s degrees in Geography and Resource Development and Sociology from the University of Ghana. My broader interests lie in development, urban and economic geography, and the changing geographies of Africa."
+    "text": "I am a Master’s student in Geography at the University of Oregon. My research explores why development unfolds unevenly across places and how economic processes shape opportunities for growth and transformation. My current work examines the spatial distribution of Chinese-financed infrastructure projects across Africa and what these patterns reveal about broader processes of development and spatial inequality."
   },
   {
     "objectID": "about.html",
@@ -18,14 +18,14 @@
     "href": "index.html#education",
     "title": "Linda Adade",
     "section": "Education",
-    "text": "Education\nUniversity of Oregon, Eugee | Oregon, MS in Geography | Sept 2025 - Present\nUniversity of Ghana | Accra, Ghana | B.A in Geography and resource development and Sociology | Sept 2016 - June 2020"
+    "text": "Education\nUniversity of Oregon | Eugene, Oregon | MS in Geography | Sept 2025 - Present\nUniversity of Ghana | Accra, Ghana | B.A in Geography & resource development & Sociology | Sept 2016 - June 2020"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Linda Adade",
     "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present"
+    "text": "Experience\nUniversity of Oregon | Graduate Teaching Assistant | Sept 2025- Present"
   },
   {
     "objectID": "index.html#geoscynce-chief-analyst-spet-2012---april-2018",
@@ -40,5 +40,12 @@
     "title": "Linda Adade",
     "section": "Teaching Assiatant | Department of Geography | Spet 2025- Present”",
     "text": "Teaching Assiatant | Department of Geography | Spet 2025- Present”\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Linda Adade",
+    "section": "Research Interests",
+    "text": "Research Interests\n• Economic Geography • Urban Geography • China-Africa relations • GIS and Spatial Analysis • Infrastructure and Regional Development"
   }
 ]
