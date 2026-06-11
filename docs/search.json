@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Linda Adade",
     "section": "",
-    "text": "Linda Adade is a first year Ms studet i Geography at the Uiversity of Orego. Her iterest is huma geography (uran and economic geography."
+    "text": "I am a Master’s student in Geography at the University of Oregon. My research is driven by an interest in understanding why development unfolds unevenly across places and how global economic processes shape opportunities for growth and transformation. I am particularly interested in the ways infrastructure, investment, and broader patterns of economic change reshape regions, cities, and communities.\nMy current research examines the Spatial Distribution of Chinese-Financed Infrastructure Development In Africa. Through GIS and spatial analysis, I explore how patterns of investment vary across regions and what they reveal about broader processes of development, connectivity, and spatial inequality.\nBefore joining the University of Oregon, I earned a Bachelor’s degrees in Geography and Resource Development and Sociology from the University of Ghana. My broader interests lie in development, urban and economic geography, and the changing geographies of Africa."
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,7 @@
     "href": "index.html#education",
     "title": "Linda Adade",
     "section": "Education",
-    "text": "Education\nUniversity of Oregon, Eugee | Oregon, MS in Geography | Sept 2025 - Present\nUniversity of Ghana | Accra, Ghana B.A in Geography and resource development and Sociology | Sept 2016 - June 20202"
+    "text": "Education\nUniversity of Oregon, Eugee | Oregon, MS in Geography | Sept 2025 - Present\nUniversity of Ghana | Accra, Ghana | B.A in Geography and resource development and Sociology | Sept 2016 - June 2020"
   },
   {
     "objectID": "index.html#experience",
@@ -33,5 +33,12 @@
     "title": "Linda Adade",
     "section": "GeoScynce | Chief Analyst | Spet 2012 - April 2018”",
     "text": "GeoScynce | Chief Analyst | Spet 2012 - April 2018”\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#teaching-assiatant-department-of-geography-spet-2025--present",
+    "href": "index.html#teaching-assiatant-department-of-geography-spet-2025--present",
+    "title": "Linda Adade",
+    "section": "Teaching Assiatant | Department of Geography | Spet 2025- Present”",
+    "text": "Teaching Assiatant | Department of Geography | Spet 2025- Present”\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]

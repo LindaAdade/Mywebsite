@@ -3,7 +3,7 @@
     "path": "~/Spring 2026/Geog 590-Spatial Demog/Lab/Mywebsite/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "1028176343",
+    "hash": "2478383302",
     "contents": "",
     "dirty": false,
     "created": 1780518024203.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "586:192.8000030517578",
+        "rmdVisualModeLocation": "85:0",
         "cursorPosition": "0,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1780524878,
+    "lastKnownWriteTime": 1781148133,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1780524878460,
+    "last_content_update": 1781148133408,
     "read_only": false,
     "read_only_alternatives": []
 }
