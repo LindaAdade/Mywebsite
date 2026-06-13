@@ -1,0 +1,21 @@
+---
+title: "Recent Projects"
+format: html
+---
+
+```{=html}
+<div style="border: 1px solid #e0e0e0; padding: 40px; background: white; max-width: 900px; margin: auto;">
+
+<hr style="border: 1px solid #e0e0e0; margin: 20px 0;">
+
+<a href="index1.html" style="text-decoration: none; color: inherit; display: flex; gap: 15px; align-items: flex-start;">
+<img src="map_landscapes.png" width="110" height="75" style="object-fit: cover; border: 1px solid #ddd;">
+<div>
+<p style="font-weight: bold; letter-spacing: 2px; font-size: 0.85em; text-transform: uppercase; margin: 0;">Population and Landscape Change in the Denver Metro Area</p>
+<p style="color: grey; font-size: 0.85em; margin-top: 5px;">2026</p>
+</div>
+</a>
+
+</div>
+```
+---

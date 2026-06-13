@@ -10,8 +10,16 @@ about:
     - icon: github
       text: Github
       href: https://github.com/LindaAdade
+
 ---
-I am a Master's student in Geography at the University of Oregon. My research explores why development unfolds unevenly across places and how economic processes shape opportunities for growth and transformation. My current work examines the spatial distribution of Chinese-financed infrastructure projects across Africa and what these patterns reveal about broader processes of development and spatial inequality.
+## About
+
+I am a Master's student in Geography at the University of Oregon. My research is driven by an interest in understanding why development unfolds unevenly across places and how global economic processes shape opportunities for growth and transformation. I am particularly interested in the ways infrastructure, investment, and broader patterns of economic change reshape regions, cities, and communities.
+
+My current research examines the spatial distribution of Chinese-financed infrastructure projects across Africa. Through GIS and spatial analysis, I explore how patterns of investment vary across regions and what they reveal about broader processes of development, connectivity, and spatial inequality.
+
+Before joining the University of Oregon, I earned Bachelor's degrees in Geography and Resource Development and Sociology from the University of Ghana. My broader interests lie in  urban and economic geography, development, China-Africa relations, and the changing geographies of Africa.
+
 
 ## Education
 University of Oregon | Eugene, Oregon | MS in Geography

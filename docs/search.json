@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Linda Adade",
     "section": "",
-    "text": "I am a Master’s student in Geography at the University of Oregon. My research explores why development unfolds unevenly across places and how economic processes shape opportunities for growth and transformation. My current work examines the spatial distribution of Chinese-financed infrastructure projects across Africa and what these patterns reveal about broader processes of development and spatial inequality."
+    "text": "I am a Master’s student in Geography at the University of Oregon. My research is driven by an interest in understanding why development unfolds unevenly across places and how global economic processes shape opportunities for growth and transformation. I am particularly interested in the ways infrastructure, investment, and broader patterns of economic change reshape regions, cities, and communities.\nMy current research examines the spatial distribution of Chinese-financed infrastructure projects across Africa. Through GIS and spatial analysis, I explore how patterns of investment vary across regions and what they reveal about broader processes of development, connectivity, and spatial inequality.\nBefore joining the University of Oregon, I earned Bachelor’s degrees in Geography and Resource Development and Sociology from the University of Ghana. My broader interests lie in urban and economic geography, development, China-Africa relations, and the changing geographies of Africa."
   },
   {
     "objectID": "about.html",
@@ -51,9 +51,9 @@
   {
     "objectID": "index1.html",
     "href": "index1.html",
-    "title": "Population and Lndscape Change in teh Denver Metro Area",
+    "title": "Population and Landscape Change in the Denver Metro Area",
     "section": "",
-    "text": "This study examines demographic change and spatial inequality across the Denver-Aurora Metropolitan Statistical Area. Using data from the 2020 Decennial Census and the 2016-2020 American Community Survey (ACS), census tracts are classified into urban, suburban, and exurban landscape types based on population density. This classification is then used to examine how income, poverty, racial composition, and age structure vary across this landscape, addressing the question: how do these dimensions of inequality differ across the urban–suburban–exurban continuum, and what do these patterns reveal about metropolitan growth in Denver? Census tracts are classified using population density thresholds adapted from Hanberry (2022), which distinguishes urban, suburban, and exurban landscapes based on persons per square kilometer. This framework provides a systematic basis for comparing demographic patterns across landscape types and allows for the analysis of spatial variation that may be obscured when relying solely on administrative boundaries."
+    "text": "This study examines demographic change and spatial inequality across the Denver–Aurora–Lakewood Metropolitan Statistical Area. With a population of nearly 3 million residents, Denver is one of the fastest-growing metropolitan regions in the United States and represents more than half of Colorado’s population. As the region has expanded, demographic and socioeconomic differences have emerged across urban, suburban, and exurban landscapes. Using data from the 2020 Decennial Census and the 2016–2020 American Community Survey (ACS), census tracts are classified into five landscape types: urban high, urban low, suburban high, suburban low, and exurban, using population density thresholds adapted from Hanberry (2022). This framework allows demographic patterns to be examined across a continuous urban–rural gradient rather than relying solely on administrative boundaries. The analysis explores how income, poverty, racial composition, and age structure vary across these landscape types and what these patterns reveal about metropolitan growth in Denver."
   },
   {
     "objectID": "index1.html#row",
@@ -65,50 +65,64 @@
   {
     "objectID": "index1.html#overview",
     "href": "index1.html#overview",
-    "title": "Population and Lndscape Change in teh Denver Metro Area",
+    "title": "Population and Landscape Change in the Denver Metro Area",
     "section": "",
-    "text": "This study examines demographic change and spatial inequality across the Denver-Aurora Metropolitan Statistical Area. Using data from the 2020 Decennial Census and the 2016-2020 American Community Survey (ACS), census tracts are classified into urban, suburban, and exurban landscape types based on population density. This classification is then used to examine how income, poverty, racial composition, and age structure vary across this landscape, addressing the question: how do these dimensions of inequality differ across the urban–suburban–exurban continuum, and what do these patterns reveal about metropolitan growth in Denver? Census tracts are classified using population density thresholds adapted from Hanberry (2022), which distinguishes urban, suburban, and exurban landscapes based on persons per square kilometer. This framework provides a systematic basis for comparing demographic patterns across landscape types and allows for the analysis of spatial variation that may be obscured when relying solely on administrative boundaries."
+    "text": "This study examines demographic change and spatial inequality across the Denver–Aurora–Lakewood Metropolitan Statistical Area. With a population of nearly 3 million residents, Denver is one of the fastest-growing metropolitan regions in the United States and represents more than half of Colorado’s population. As the region has expanded, demographic and socioeconomic differences have emerged across urban, suburban, and exurban landscapes. Using data from the 2020 Decennial Census and the 2016–2020 American Community Survey (ACS), census tracts are classified into five landscape types: urban high, urban low, suburban high, suburban low, and exurban, using population density thresholds adapted from Hanberry (2022). This framework allows demographic patterns to be examined across a continuous urban–rural gradient rather than relying solely on administrative boundaries. The analysis explores how income, poverty, racial composition, and age structure vary across these landscape types and what these patterns reveal about metropolitan growth in Denver."
   },
   {
     "objectID": "index1.html#landscape-classification",
     "href": "index1.html#landscape-classification",
-    "title": "Population and Lndscape Change in teh Denver Metro Area",
+    "title": "Population and Landscape Change in the Denver Metro Area",
     "section": "Landscape Classification",
-    "text": "Landscape Classification\nUrban high-density tracts concentrate in the city core while suburban and exurban tracts extend toward the periphery."
+    "text": "Landscape Classification\nUrban high-density tracts concentrate in the city core while suburban and exurban tracts extend toward the periphery. Although exurban areas occupy the largest share of land, most residents live within the urban core, illustrating the uneven relationship between population concentration and land area."
   },
   {
     "objectID": "index1.html#income",
     "href": "index1.html#income",
-    "title": "Population and Lndscape Change in teh Denver Metro Area",
+    "title": "Population and Landscape Change in the Denver Metro Area",
     "section": "Income",
-    "text": "Income\nMedian household income rises moving from urban to suburban and exurban landscapes, reflecting uneven distribution of economic gains across the metro."
+    "text": "Income\nMedian household income increases from urban to exurban landscapes, suggesting that higher-income households are concentrated in lower-density parts of the metropolitan region"
   },
   {
     "objectID": "index1.html#poverty",
     "href": "index1.html#poverty",
-    "title": "Population and Lndscape Change in teh Denver Metro Area",
+    "title": "Population and Landscape Change in the Denver Metro Area",
     "section": "Poverty",
-    "text": "Poverty\nPoverty concentrates heavily in urban core tracts, particularly in north and west Denver."
+    "text": "Poverty\nPoverty is most concentrated in the urban core, particularly central Denver. As you move outward from the core, poverty rates generally decline, with much of the suburban ring showing lower poverty rates. However, the pattern is not uniform; there are still scattered pockets of higher poverty in outer and peripheral areas, including parts of the southwest metro and more exurban tracts. Overall, Denver shows a strong urban concentration of poverty, combined with a more uneven and dispersed poverty pattern outside the core, rather than a smooth decline."
   },
   {
     "objectID": "index1.html#racial-composition",
     "href": "index1.html#racial-composition",
-    "title": "Population and Lndscape Change in teh Denver Metro Area",
+    "title": "Population and Landscape Change in the Denver Metro Area",
     "section": "Racial Composition",
-    "text": "Racial Composition\nHispanic residents concentrate in urban and inner suburban tracts while suburban and exurban landscapes remain predominantly white."
+    "text": "Racial Composition\nHispanic residents are concentrated in urban and inner suburban areas, where they represent the largest minority populations across the metropolitan region. In contrast, suburban and exurban landscapes remain majority White, reinforcing a persistent spatial gradient in racial composition across metropolitan space."
   },
   {
     "objectID": "index1.html#age-structure",
     "href": "index1.html#age-structure",
-    "title": "Population and Lndscape Change in teh Denver Metro Area",
+    "title": "Population and Landscape Change in the Denver Metro Area",
     "section": "Age Structure",
-    "text": "Age Structure\nUrban tracts skew younger, suburban tracts reflect family households, and exurban tracts show an older age profile."
+    "text": "Age Structure\nUrban tracts are characterized by a younger population structure, suburban tracts by a concentration of family households and working-age adults, and exurban tracts by an older population profile."
   },
   {
     "objectID": "index1.html#what-the-data-reveal",
     "href": "index1.html#what-the-data-reveal",
-    "title": "Population and Lndscape Change in teh Denver Metro Area",
+    "title": "Population and Landscape Change in the Denver Metro Area",
     "section": "What the Data Reveal",
-    "text": "What the Data Reveal\nTaken together, these patterns tell a consistent story about uneven development in the Denver metro area. Suburban and exurban tracts concentrate wealth, older family households, and predominantly white populations, while urban core tracts bear the highest poverty rates and are home to the metro’s Hispanic and Black residents. The density gradient is not simply a technical classification — it maps onto deeper inequalities of race and income that shape who benefits from Denver’s growth and who remains on the margins."
+    "text": "What the Data Reveal\nOverall, the findings highlight a consistent spatial gradient in which socioeconomic status increases with decreasing density. However, this relationship is mediated by housing tenure, life stage, and racial composition, suggesting that metropolitan growth in Denver is unevenly distributed across both space and social groups."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Recent Projects",
+    "section": "",
+    "text": "Population and Landscape Change in the Denver Metro Area\n2026"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Linda Adade",
+    "section": "",
+    "text": "I am a Master’s student in Geography at the University of Oregon. My research is driven by an interest in understanding why development unfolds unevenly across places and how global economic processes shape opportunities for growth and transformation. I am particularly interested in the ways infrastructure, investment, and broader patterns of economic change reshape regions, cities, and communities.\nMy current research examines the spatial distribution of Chinese-financed infrastructure projects across Africa. Through GIS and spatial analysis, I explore how patterns of investment vary across regions and what they reveal about broader processes of development, connectivity, and spatial inequality.\nBefore joining the University of Oregon, I earned Bachelor’s degrees in Geography and Resource Development and Sociology from the University of Ghana. My broader interests lie in urban and economic geography, development, China-Africa relations, and the changing geographies of Africa."
   }
 ]

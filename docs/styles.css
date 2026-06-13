@@ -1,5 +1,5 @@
 /* css styles */
-/* Navbar */
+
 body {
   background-color: #f9f7f4 !important;
 }
@@ -7,20 +7,50 @@ body {
 h2, h3 {
   color: #222222 !important;
 }
-.nav-link.active {
+
+.navbar * {
   color: white !important;
-  font-weight: 600;
 }
-.navbar .nav-link.active,
-.navbar .nav-link:active,
-.navbar .active > .nav-link {
+
+.navbar .nav-link.active {
   color: white !important;
   font-weight: 600;
 }
 
-.navbar-nav .nav-link.active {
-  color: white !important;
+.about-image {
+  max-width: 300px !important;
 }
-.navbar * {
-  color: white !important;
+
+.about-contents {
+  padding-left: 40px !important;
+}
+
+.about-entity {
+  padding-right: 40px !important;
+}
+
+h2.anchored[id="about"] {
+  display: none !important;
+}
+
+#quarto-margin-sidebar {
+  display: none !important;
+}
+.about {
+  max-width: 1200px !important;
+  width: 100% !important;
+}
+
+.about-image img {
+  width: 100% !important;
+  max-width: 400px !important;
+}
+.about {
+  max-width: 1200px !important;
+  width: 100% !important;
+}
+
+.about-image img {
+  width: 100% !important;
+  max-width: 400px !important;
 }
