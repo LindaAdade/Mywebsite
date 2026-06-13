@@ -1,1 +1,26 @@
 /* css styles */
+/* Navbar */
+body {
+  background-color: #f9f7f4 !important;
+}
+
+h2, h3 {
+  color: #222222 !important;
+}
+.nav-link.active {
+  color: white !important;
+  font-weight: 600;
+}
+.navbar .nav-link.active,
+.navbar .nav-link:active,
+.navbar .active > .nav-link {
+  color: white !important;
+  font-weight: 600;
+}
+
+.navbar-nav .nav-link.active {
+  color: white !important;
+}
+.navbar * {
+  color: white !important;
+}

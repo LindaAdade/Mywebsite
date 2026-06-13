@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n\n[1] 2"
   },
   {
     "objectID": "index.html#education",
@@ -46,6 +46,69 @@
     "href": "index.html#research-interests",
     "title": "Linda Adade",
     "section": "Research Interests",
-    "text": "Research Interests\n• Economic Geography • Urban Geography • China-Africa relations • GIS and Spatial Analysis • Infrastructure and Regional Development"
+    "text": "Research Interests\n\nEconomic Geography\nUrban Geography\nChina-Africa relations\nGIS and Spatial Analysis\nInfrastructure and Regional Development"
+  },
+  {
+    "objectID": "index1.html",
+    "href": "index1.html",
+    "title": "Population and Lndscape Change in teh Denver Metro Area",
+    "section": "",
+    "text": "This study examines demographic change and spatial inequality across the Denver-Aurora Metropolitan Statistical Area. Using data from the 2020 Decennial Census and the 2016-2020 American Community Survey (ACS), census tracts are classified into urban, suburban, and exurban landscape types based on population density. This classification is then used to examine how income, poverty, racial composition, and age structure vary across this landscape, addressing the question: how do these dimensions of inequality differ across the urban–suburban–exurban continuum, and what do these patterns reveal about metropolitan growth in Denver? Census tracts are classified using population density thresholds adapted from Hanberry (2022), which distinguishes urban, suburban, and exurban landscapes based on persons per square kilometer. This framework provides a systematic basis for comparing demographic patterns across landscape types and allows for the analysis of spatial variation that may be obscured when relying solely on administrative boundaries."
+  },
+  {
+    "objectID": "index1.html#row",
+    "href": "index1.html#row",
+    "title": "Population and Landscape Change in the Denver Metro Area",
+    "section": "",
+    "text": "About Population and Landscape Change in the Denver Metro Area\n\n\nMyNorfolk is a service that allows residents of the City of Norfolk to request services online from their computer or mobile device. The data used in this dashboard is available on the Norfolk Open Data Portal.\n\nThis analysis examines demographic change and spatial inequality across the Denver -Aurora Metropolitan Statistical Area. Using 2020 Decennial Census and 2016 - 2020 American Community Survey (ACS) data, I classify census tracts by population density into urban, suburban, and exurban landscapes and ask: how do income, poverty, racial composition, and age structure vary across these landscape types - and what does that variation reveal about who benefits from Denver’s growth? Census tracts are classified using density thresholds drawn from Hanberry (2022), which distinguishes urban, suburban, and exurban landscapes based on persons per square kilometer. This framework provides a systematic basis for comparing demographic patterns across landscape types rather than relying on administrative boundaries alone.\n\n\n\n\n\nAbout this dashboard\n\n\n Source code"
+  },
+  {
+    "objectID": "index1.html#overview",
+    "href": "index1.html#overview",
+    "title": "Population and Lndscape Change in teh Denver Metro Area",
+    "section": "",
+    "text": "This study examines demographic change and spatial inequality across the Denver-Aurora Metropolitan Statistical Area. Using data from the 2020 Decennial Census and the 2016-2020 American Community Survey (ACS), census tracts are classified into urban, suburban, and exurban landscape types based on population density. This classification is then used to examine how income, poverty, racial composition, and age structure vary across this landscape, addressing the question: how do these dimensions of inequality differ across the urban–suburban–exurban continuum, and what do these patterns reveal about metropolitan growth in Denver? Census tracts are classified using population density thresholds adapted from Hanberry (2022), which distinguishes urban, suburban, and exurban landscapes based on persons per square kilometer. This framework provides a systematic basis for comparing demographic patterns across landscape types and allows for the analysis of spatial variation that may be obscured when relying solely on administrative boundaries."
+  },
+  {
+    "objectID": "index1.html#landscape-classification",
+    "href": "index1.html#landscape-classification",
+    "title": "Population and Lndscape Change in teh Denver Metro Area",
+    "section": "Landscape Classification",
+    "text": "Landscape Classification\nUrban high-density tracts concentrate in the city core while suburban and exurban tracts extend toward the periphery."
+  },
+  {
+    "objectID": "index1.html#income",
+    "href": "index1.html#income",
+    "title": "Population and Lndscape Change in teh Denver Metro Area",
+    "section": "Income",
+    "text": "Income\nMedian household income rises moving from urban to suburban and exurban landscapes, reflecting uneven distribution of economic gains across the metro."
+  },
+  {
+    "objectID": "index1.html#poverty",
+    "href": "index1.html#poverty",
+    "title": "Population and Lndscape Change in teh Denver Metro Area",
+    "section": "Poverty",
+    "text": "Poverty\nPoverty concentrates heavily in urban core tracts, particularly in north and west Denver."
+  },
+  {
+    "objectID": "index1.html#racial-composition",
+    "href": "index1.html#racial-composition",
+    "title": "Population and Lndscape Change in teh Denver Metro Area",
+    "section": "Racial Composition",
+    "text": "Racial Composition\nHispanic residents concentrate in urban and inner suburban tracts while suburban and exurban landscapes remain predominantly white."
+  },
+  {
+    "objectID": "index1.html#age-structure",
+    "href": "index1.html#age-structure",
+    "title": "Population and Lndscape Change in teh Denver Metro Area",
+    "section": "Age Structure",
+    "text": "Age Structure\nUrban tracts skew younger, suburban tracts reflect family households, and exurban tracts show an older age profile."
+  },
+  {
+    "objectID": "index1.html#what-the-data-reveal",
+    "href": "index1.html#what-the-data-reveal",
+    "title": "Population and Lndscape Change in teh Denver Metro Area",
+    "section": "What the Data Reveal",
+    "text": "What the Data Reveal\nTaken together, these patterns tell a consistent story about uneven development in the Denver metro area. Suburban and exurban tracts concentrate wealth, older family households, and predominantly white populations, while urban core tracts bear the highest poverty rates and are home to the metro’s Hispanic and Black residents. The density gradient is not simply a technical classification — it maps onto deeper inequalities of race and income that shape who benefits from Denver’s growth and who remains on the margins."
   }
 ]
