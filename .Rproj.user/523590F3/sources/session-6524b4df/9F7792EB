@@ -3,7 +3,7 @@
     "path": "~/Spring 2026/Geog 590-Spatial Demog/Lab/Mywebsite/styles.css",
     "project_path": "styles.css",
     "type": "css",
-    "hash": "598995818",
+    "hash": "3892265816",
     "contents": "",
     "dirty": false,
     "created": 1781350832685.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "55,1",
-        "scrollLine": "29"
+        "cursorPosition": "82,1",
+        "scrollLine": "56"
     },
     "folds": "",
-    "lastKnownWriteTime": 1781381761,
+    "lastKnownWriteTime": 1781427405,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1781381761745,
+    "last_content_update": 1781427405572,
     "read_only": false,
     "read_only_alternatives": []
 }

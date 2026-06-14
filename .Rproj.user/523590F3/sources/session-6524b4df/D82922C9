@@ -3,16 +3,16 @@
     "path": "~/Spring 2026/Geog 590-Spatial Demog/Lab/Mywebsite/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "1963982404",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1781351566355.0,
     "source_on_save": false,
     "relative_order": 5,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "13,8",
+        "cursorPosition": "21,13",
         "scrollLine": "0"
     },
     "folds": "",
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1781372237084,
+    "last_content_update": 1781427280697,
     "read_only": false,
     "read_only_alternatives": []
 }

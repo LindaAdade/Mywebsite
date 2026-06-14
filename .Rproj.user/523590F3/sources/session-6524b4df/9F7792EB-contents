@@ -54,3 +54,30 @@ h2.anchored[id="about"] {
   width: 100% !important;
   max-width: 400px !important;
 }
+.about-links .btn {
+  color: #222222 !important;
+  border-color: #222222 !important;
+}
+
+.about-links .btn:hover {
+  background-color: #222222 !important;
+  color: white !important;
+}
+.about-links a,
+.about-links a.btn,
+.about-links .btn-outline-dark {
+  color: #222222 !important;
+  border-color: #222222 !important;
+  font-weight: bold !important;
+}
+
+.about-links a:hover,
+.about-links a.btn:hover {
+  background-color: #222222 !important;
+  color: white !important;
+  border-color: #222222 !important;
+}
+.nav-link:hover {
+  color: #aaaaaa !important;
+  text-decoration: underline !important;
+}
